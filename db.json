@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this is my first stream ",
+      "id": 1
+    },
+    {
+      "title": "Mi stream",
+      "description": "this is my second stream ",
+      "id": 2
+    },
+    {
+      "title": "3rd stream",
+      "description": "lalalala dub dub ",
+      "id": 3
+    },
+    {
+      "title": "3rd stream",
+      "description": "lalalala dub dub ",
+      "id": 4
+    },
+    {
+      "title": "5th stream",
+      "description": "booboollllooooool",
+      "id": 5
+    },
+    {
+      "title": "stormy stream",
+      "description": "hrrrrrrrrrrrrrrrr",
+      "id": 6
+    }
+  ]
+}
