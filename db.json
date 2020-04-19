@@ -10,7 +10,60 @@
       "description": "this is my second stream ",
       "id": 2
     },
+    {{
+  "streams": [
     {
+      "title": "My  first stream",
+      "description": "this is my first OBS stream ",
+      "userId": "115196666137123782290",
+      "id": 1
+    },
+    {
+      "title": "Open Broadcasting Service",
+      "description": "learn about video streaming from the pro",
+      "userId": "115196666137123782290",
+      "id": 2
+    },
+    {
+      "title": "Coding is power",
+      "description": "learn to code with me ",
+      "userId": "115196666137123782290",
+      "id": 3
+    },
+    {
+      "title": "symphony for the soul",
+      "description": "basic music notes for beginners",
+      "userId": "115196666137123782290",
+      "id": 4
+    },
+    {
+      "title": "smile and smile",
+      "description": "live without regrets",
+      "userId": "115196666137123782290",
+      "id": 5
+    },
+    {
+      "title": "stormy stream",
+      "description": "know disasters before they strike",
+      "userId": "115196666137123782290",
+      "id": 6
+    },
+
+
+    {
+      "title": "balle balle balle",
+      "description": "learn how to dance with me",
+      "userId": "115196666137123782290",
+      "id": 7
+    },
+    {
+      "title": "Problem solving techniques",
+      "description": "lets get started",
+      "userId": "115196666137123782290",
+      "id": 8
+    }
+  ]
+}
       "title": "3rd stream",
       "description": "lalalala dub dub ",
       "id": 3
