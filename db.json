@@ -1,18 +1,6 @@
 {
   "streams": [
     {
-      "title": "My stream",
-      "description": "this is my first stream ",
-      "id": 1
-    },
-    {
-      "title": "Mi stream",
-      "description": "this is my second stream ",
-      "id": 2
-    },
-    {{
-  "streams": [
-    {
       "title": "My  first stream",
       "description": "this is my first OBS stream ",
       "userId": "115196666137123782290",
@@ -48,8 +36,6 @@
       "userId": "115196666137123782290",
       "id": 6
     },
-
-
     {
       "title": "balle balle balle",
       "description": "learn how to dance with me",
@@ -61,27 +47,30 @@
       "description": "lets get started",
       "userId": "115196666137123782290",
       "id": 8
-    }
-  ]
-}
-      "title": "3rd stream",
-      "description": "lalalala dub dub ",
-      "id": 3
     },
     {
-      "title": "3rd stream",
-      "description": "lalalala dub dub ",
-      "id": 4
+      "title": "MILEY CYRUS",
+      "description": "AAHAHAHAHAHAHAHAHAHAHAHA",
+      "userId": "115196666137123782290",
+      "id": 9
     },
     {
-      "title": "5th stream",
-      "description": "booboollllooooool",
-      "id": 5
+      "title": "GOTCHA MOVES LIKE JAGGER",
+      "description": "hehehehehehehehe",
+      "userId": "115196666137123782290",
+      "id": 10
     },
     {
-      "title": "stormy stream",
-      "description": "hrrrrrrrrrrrrrrrr",
-      "id": 6
+      "title": "reuse components",
+      "description": "HEYA",
+      "userId": "115196666137123782290",
+      "id": 11
+    },
+    {
+      "title": "GOTCHAAAAAA BABAY",
+      "description": "bipity bop",
+      "userId": "115196666137123782290",
+      "id": 12
     }
   ]
 }
